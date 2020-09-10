@@ -1,3 +1,6 @@
+--Nome integrantes da dupla: Patrícia Fernandes Dornelas e Rui Pablo de Brito Ferreira
+--Matrícula : 11821BCC043 e 11721BCC004
+
 --1
 
 triangulo :: Int-> Int-> Int->String
